@@ -10,3 +10,4 @@ I'm a **Technical Manager & Azure Evangelist at @everis @NTTDATAservices** and f
 * Check my Azure samples repo here: [azure.samples](https://github.com/Manuss20/azure.samples)
 
 ## Stats
+![manuss20](https://github-readme-stats.vercel.app/api?username=manuss20&count_private=true")
