@@ -9,7 +9,5 @@ I'm a **Technical Manager & Azure Evangelist at @NTTDATA** and **Azure Microsoft
 * If you are interested in Azure and .NET you should visit my blog at [https://manuss20.com](https://manuss20.com)
 * Check my Azure samples repo here: [azure.samples](https://github.com/Manuss20/azure.samples)
 
-![Manuel's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manuss20&show_icons=true)
-
 ## Stats
 ![manuss20](https://github-readme-stats.vercel.app/api?username=manuss20&count_private=true")
