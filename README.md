@@ -10,4 +10,4 @@ I'm a **Director Azure App Modernisation at @NTTDATA** and **Azure & AI Platform
 * Check my Azure samples repo here: [azure.samples](https://github.com/Manuss20/azure.samples)
 
 ## Stats
-![manuss20](https://github-readme-stats.vercel.app/api?username=manuss20&count_private=true")
+[![Manuel's GitHub stats](https://github-stats-extended.vercel.app/api?username=manuss20)](https://github.com/stats-organization/github-stats-extended)
